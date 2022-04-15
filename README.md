@@ -1,3 +1,3 @@
 # PhoneDirectory
-# This program maintains a list of names and phone numbers for a phone directory of your friends.
+# This program provides a user-friendly and menu driven program that allows the user to select and execute miscellaneous operations/services. 
 

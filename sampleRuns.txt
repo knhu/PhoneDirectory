@@ -1,0 +1,198 @@
+Script started on Mon 12 Apr 2021 11:44:48 PM PDT
+]0;knhu@bec307dl08:~/comp230/projects/proj4[?1034h[38;5;39mknhu(B[m[38;5;15m@(B[m[38;5;136mbec307dl08(B[m[38;5;15m (B[m[38;5;2mproj4(B[m[38;5;15m>(B[m java proj4
+
+Welcome to Matthew and Kevin's PhoneDirectory.
+
+
+					Main Menu				
+
+ 1. Load a previously saved phone directory from file 
+ 2. Add or change an entry 
+ 3. Remove an entry 
+ 4. Search for an entry 
+ 5. Display all entries 
+ 6. Save the current phone directory to a file 
+ 7. Quit the program 
+
+Please choose an option (1-7): 1
+
+Please enter the name of a file: 
+sample.txt
+The specified file (sample.txt) was not found.
+Your phone directory has no changes
+
+					Main Menu				
+
+ 1. Load a previously saved phone directory from file 
+ 2. Add or change an entry 
+ 3. Remove an entry 
+ 4. Search for an entry 
+ 5. Display all entries 
+ 6. Save the current phone directory to a file 
+ 7. Quit the program 
+
+Please choose an option (1-7): 6
+
+Enter the name of a file: sample.txt
+
+					Main Menu				
+
+ 1. Load a previously saved phone directory from file 
+ 2. Add or change an entry 
+ 3. Remove an entry 
+ 4. Search for an entry 
+ 5. Display all entries 
+ 6. Save the current phone directory to a file 
+ 7. Quit the program 
+
+Please choose an option (1-7): 1
+
+Please enter the name of a file: 
+sample.txt
+Congrats! Your new phone directory has been read from your file!
+
+					Main Menu				
+
+ 1. Load a previously saved phone directory from file 
+ 2. Add or change an entry 
+ 3. Remove an entry 
+ 4. Search for an entry 
+ 5. Display all entries 
+ 6. Save the current phone directory to a file 
+ 7. Quit the program 
+
+Please choose an option (1-7): 5
+
+Size: 1
+name, number
+
+
+					Main Menu				
+
+ 1. Load a previously saved phone directory from file 
+ 2. Add or change an entry 
+ 3. Remove an entry 
+ 4. Search for an entry 
+ 5. Display all entries 
+ 6. Save the current phone directory to a file 
+ 7. Quit the program 
+
+Please choose an option (1-7): 2
+
+Enter a name: Ben Jacinto
+Enter a number: 510-589-3813
+A new entry has been added to your phone directory.
+
+					Main Menu				
+
+ 1. Load a previously saved phone directory from file 
+ 2. Add or change an entry 
+ 3. Remove an entry 
+ 4. Search for an entry 
+ 5. Display all entries 
+ 6. Save the current phone directory to a file 
+ 7. Quit the program 
+
+Please choose an option (1-7): 5
+
+Size: 2
+name, number
+Ben Jacinto, 510-589-3813
+
+
+					Main Menu				
+
+ 1. Load a previously saved phone directory from file 
+ 2. Add or change an entry 
+ 3. Remove an entry 
+ 4. Search for an entry 
+ 5. Display all entries 
+ 6. Save the current phone directory to a file 
+ 7. Quit the program 
+
+Please choose an option (1-7): 3
+
+Enter a name: namen
+No phone directory entry with the specified name namen was found.
+
+					Main Menu				
+
+ 1. Load a previously saved phone directory from file 
+ 2. Add or change an entry 
+ 3. Remove an entry 
+ 4. Search for an entry 
+ 5. Display all entries 
+ 6. Save the current phone directory to a file 
+ 7. Quit the program 
+
+Please choose an option (1-7): 3
+
+Enter a name: name
+You removed the entry [name, number] from the phone directory.
+
+					Main Menu				
+
+ 1. Load a previously saved phone directory from file 
+ 2. Add or change an entry 
+ 3. Remove an entry 
+ 4. Search for an entry 
+ 5. Display all entries 
+ 6. Save the current phone directory to a file 
+ 7. Quit the program 
+
+Please choose an option (1-7): 5
+
+Size: 1
+Ben Jacinto, 510-589-3813
+
+
+					Main Menu				
+
+ 1. Load a previously saved phone directory from file 
+ 2. Add or change an entry 
+ 3. Remove an entry 
+ 4. Search for an entry 
+ 5. Display all entries 
+ 6. Save the current phone directory to a file 
+ 7. Quit the program 
+
+Please choose an option (1-7): 4
+
+Enter a name: Ben Jacinto
+0
+The entry <Ben Jacinto, 510-589-3813> corresponds with the name (Ben Jacinto).
+
+					Main Menu				
+
+ 1. Load a previously saved phone directory from file 
+ 2. Add or change an entry 
+ 3. Remove an entry 
+ 4. Search for an entry 
+ 5. Display all entries 
+ 6. Save the current phone directory to a file 
+ 7. Quit the program 
+
+Please choose an option (1-7): 6
+
+Enter the name of a file: Sample2.txt
+
+					Main Menu				
+
+ 1. Load a previously saved phone directory from file 
+ 2. Add or change an entry 
+ 3. Remove an entry 
+ 4. Search for an entry 
+ 5. Display all entries 
+ 6. Save the current phone directory to a file 
+ 7. Quit the program 
+
+Please choose an option (1-7): 0
+The number you've entered is invalid. The choice must be between 1 and 7
+
+Please choose an option (1-7): 7
+
+Thanks for using Matthew and Kevin's PhoneDirectory
+]0;knhu@bec307dl08:~/comp230/projects/proj4[38;5;39mknhu(B[m[38;5;15m@(B[m[38;5;136mbec307dl08(B[m[38;5;15m (B[m[38;5;2mproj4(B[m[38;5;15m>(B[m exit
+exit
+
+Script done on Mon 12 Apr 2021 11:49:07 PM PDT
